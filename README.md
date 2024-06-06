@@ -1,2 +1,3 @@
 # E-commerce-Fraud-Detection-System-using-ml
-sdasfjdas
+
+The increase in online transactions is directly linked to the expanding customer base on digital platforms, but this growth also brings about a surge in fraudulent activities. To combat this, the integration of machine learning technology into online commerce for fraud prevention has become increasingly prevalent. This study seeks to identify the most effective machine learning algorithm among decision trees, K Nearest Neighbors, and random forests. The dataset remains unchanged, while a technique known as engineered minority oversampling is employed to ensure stability in data creation. The findings reveal that decision trees outperform other algorithms with the highest accuracy rate of 76%, followed by random forests (70%), support vector machines (67%), and K Nearest Neighbors (61%).
